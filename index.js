@@ -1,6 +1,6 @@
 
 console.log("Hello, Git Practice!");
-
+console.log("welcome to my nodejs app !")
 function add(a, b) {
     return a + b;
 }
